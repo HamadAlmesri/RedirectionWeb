@@ -3,3 +3,13 @@
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+@media screen and (max-width: 600px) {
+    body {
+      background-color: olive;
+    }
+  }
+  @media screen and (max-width: 600px) {
+    body {
+      background-color: olive;
+    }
+  }
